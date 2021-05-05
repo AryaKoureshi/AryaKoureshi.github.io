@@ -10,7 +10,6 @@ labels:
   - ??
 summary: This post will be updated shortly...
 ---
-<figure class="figure1">
-  <img class="figure-img img-fluid z-depth-1" alt="..." src="../images/cryptocurrency.jpg">
-</figure>
+
+<img class="ui medium image" alt="..." src="../images/cryptocurrency.jpg">
 This project will be produced by my best friend Mr. [Ali Jabbari](https://ali-jabbari.github.io) and me.
