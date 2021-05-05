@@ -26,14 +26,14 @@ You can see this post on my [Linkedin](https://www.linkedin.com/posts/arya-koure
 #deeplearning #python #tensorflow #keras #machinelearning #algorithms #artificialintelligence
 
 <figure class="figure">
-  <img class="ui large image" src="../images/test1.png">
+  <img class="ui medium image" src="../images/test1.png">
   <figcaption class="figure-caption">Sudoku</figcaption>
 </figure>
 <figure class="figure">
-  <img class="ui large image" src="../images/detected1.png">
+  <img class="ui medium image" src="../images/detected1.png">
   <figcaption class="figure-caption">Detected</figcaption>
 </figure>
 <figure class="figure">
-  <img class="ui large image" src="../images/solved1.png">
+  <img class="ui medium image" src="../images/solved1.png">
   <figcaption class="figure-caption">Solved</figcaption>
 </figure>
