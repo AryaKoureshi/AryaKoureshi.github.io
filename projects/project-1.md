@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/sample.jpg
-title: RBD(Recognizing Blurred Documents)
+title: RBD (Recognizing Blurred Documents)
 permalink: projects/RBD
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-05
