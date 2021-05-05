@@ -2,7 +2,7 @@
 
 # REQUIRED CHANGES
 # Edit next line, providing your own name.
-title: Arya Koureshi | Professional Portfolio
+title: Arya Koureshi | Personal Blog
 # Edit next line, replacing 'techfolios' with your github username
 url: "https://AryaKoureshi.github.io"
 # Edit next line so that baseurl is "" if your repo is <username>.github.io
@@ -10,7 +10,7 @@ baseurl: ""
 
 # OPTIONAL CHANGES
 # You might want to change the bio page label to something else, such as CV
-bio-page-label: Resume
+bio-page-label: CV
 # You might want to change the theme associated with one or more sections of the site.
 # Defining your own custom theme variations is easy. See the documentation.
 theme-home: theme-home-builtin-1.html
