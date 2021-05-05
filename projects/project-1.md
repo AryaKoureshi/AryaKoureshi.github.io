@@ -29,7 +29,7 @@ If you would like to know more about the model, please contact me.
 #AI
 #RBD
 
-<div class="ui medium images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/sample.jpg">
   <img class="ui image" src="../images/sample2.jpg">
   <img class="ui image" src="../images/sample3.jpg">
