@@ -25,15 +25,15 @@ Download Link: [GitHub](https://github.com/AryaKoureshi/SolSudo)
 You can see this post on my [Linkedin](https://www.linkedin.com/posts/arya-koureshi_deeplearning-python-tensorflow-activity-6711641409658716160-kdSD) account or contact me to receive the model and know-how work this codes.
 #deeplearning #python #tensorflow #keras #machinelearning #algorithms #artificialintelligence
 
-<figure class="figure">
-  <img class="ui medium image" src="../images/test1.png">
+<figure class="figure1">
+  <img class="figure-img img-fluid z-depth-1" alt="..." src="../images/test1.png">
   <figcaption class="figure-caption">Sudoku</figcaption>
 </figure>
-<figure class="figure">
-  <img class="ui medium image" src="../images/detected1.png">
+<figure class="figure2">
+  <img class="figure-img img-fluid z-depth-1" alt="..." src="../images/detected1.png">
   <figcaption class="figure-caption">Detected</figcaption>
 </figure>
-<figure class="figure">
-  <img class="ui medium image" src="../images/solved1.png">
+<figure class="figure3">
+  <img class="figure-img img-fluid z-depth-1" alt="..." src="../images/solved1.png">
   <figcaption class="figure-caption">Solved</figcaption>
 </figure>
