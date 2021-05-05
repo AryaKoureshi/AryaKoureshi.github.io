@@ -19,7 +19,7 @@ I created a Deep Learning algorithm for recognizing blurred documents (RBD).
 This model is an autoencoder convolutional network created by Keras in Python using the TensorFlow library.
 You can see some examples below.
 One special advantage of this model is the fact that it can recognize images of various sizes. The way this model works is by taking images of any size and converting them into 64x64 pieces and then recognizing them, and finally connecting these pieces together to display the final image.
-You can see this post at my [Linkedin](https://www.linkedin.com/posts/arya-koureshi_deeplearning-python-tensorflow-activity-6707914099294003201-5eM2) or find the codes at [GitHub](https://github.com/AryaKoureshi/RBD)
+You can see this post at my [Linkedin](https://www.linkedin.com/posts/arya-koureshi_deeplearning-python-tensorflow-activity-6707914099294003201-5eM2) account or find the codes on [GitHub](https://github.com/AryaKoureshi/RBD).
 
 
 If you would like to know more about the model, please contact me.
@@ -30,7 +30,7 @@ If you would like to know more about the model, please contact me.
 #AI
 #RBD
 
-<div class="ui xlarge rounded images">
+<div class="ui xxlarge images">
   <img class="ui image" src="../images/sample.jpg">
   <img class="ui image" src="../images/sample2.jpg">
   <img class="ui image" src="../images/sample3.jpg">
