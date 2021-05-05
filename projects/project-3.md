@@ -5,7 +5,7 @@ image: images/cryptocurrency.jpg
 title: Cryptocurrencies will be in our hands in the near future.
 permalink: projects/Cryptocurrency
 # All dates must be YYYY-MM-DD format!
-date: 2021-00-00
+date: 2021-01-01
 labels:
   - ??
 summary: This post will be updated shortly...
