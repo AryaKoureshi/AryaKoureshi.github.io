@@ -7,16 +7,15 @@
 
 // Customize the background color
 body {
-   background: linear-gradient(to bottom right, #000000, whitesmoke);
+  background: linear-gradient(to bottom right, lightskyblue, whitesmoke);
 }
 
 // Customize the menubar color
 .ui.menu {
-   background: $background-start;
+  background: lightskyblue;
 }
 
 // Customize the home page icon colors
 .icon-color {
-   color: #DC143C;
+  color: darken(lightsteelblue, 20%);
 }
-
