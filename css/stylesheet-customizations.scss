@@ -7,15 +7,16 @@
 
 // Customize the background color
 body {
-  background: linear-gradient(90deg, black, crimson , black);
+  background: rgb(0,135,204);
+  background: radial-gradient(circle, rgba(0,135,204,1) 0%, rgba(0,0,0,1) 100%);
 }
 
 // Customize the menubar color
 .ui.menu {
-  background: darken(crimson, 10%);
+  background: rgb(0,135,204);
 }
 
 // Customize the home page icon colors
 .icon-color {
-  color: black;
+  color: rgba(0,135,204,0);
 }
