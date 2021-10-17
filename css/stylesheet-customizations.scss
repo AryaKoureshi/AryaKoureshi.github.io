@@ -6,8 +6,14 @@
 // Here are some common customizations for colors
 
 // Customize the background color
+body {
+  background-color: black;;
+}
 
 // Customize the menubar color
+.ui.menu {
+  background: $background-start;
+}
 
 // Customize the home page icon colors
 .icon-color {
