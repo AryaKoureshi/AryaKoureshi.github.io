@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/test1.png
+image: images/p3.jpg
 title: Brain tumor detection with segmentation
 permalink: projects/BT_Detection
 # All dates must be YYYY-MM-DD format!
