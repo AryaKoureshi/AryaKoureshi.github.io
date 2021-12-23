@@ -21,8 +21,8 @@ summary: Brain tumor detection and segmentation from MRI images using CNN and Un
 Topic: Brain tumor detection
 
 Abstract: Brain tumor detection and segmentation from MRI images using CNN and Unet models. These deep neural networks are implemented with Keras functional API.
-The CNN model is used to detect whether a tumor is there or not. After 15 epochs of training, the calculated accuracy is about 0.996.
-The U-net model is used to segment tumors in MRI images of the brain. After 10 epochs of training, the calculated accuracy is about 0.98.
+The CNN model is used to detect whether a tumor is there or not. After 15 epochs of training, the calculated accuracy is about 99.6%.
+The U-net model is used to segment tumors in MRI images of the brain. After 10 epochs of training, the calculated accuracy is about 98%.
 
 Use the trained models to detect and segment tumors on brain MRI images. The result is satisfactory.
 
