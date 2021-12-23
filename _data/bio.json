@@ -76,17 +76,17 @@
         ]
     },
     {
-      "name": "Signal Processing",
-      "level":"",
-      "keywords": [
-        "Matlab",
-        ]
-    },
-    {
       "name": "Image Segmentation",
       "level":"",
       "keywords": [
         "Python",
+        ]
+    },
+    {
+      "name": "Signal Processing",
+      "level":"",
+      "keywords": [
+        "Matlab",
         ]
     },
     {
