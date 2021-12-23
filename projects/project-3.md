@@ -31,7 +31,7 @@ You can download my U-net trained model from: [Unet](https://drive.google.com/dr
 [Github](https://github.com/AryaKoureshi/Brain-tumor-detection)
 
 <figure class="figure1">
-  <img class="figure-img img-fluid z-depth-1" alt="..." src="../images/modelProject3.png">
-  <figcaption class="figure-caption">Sudoku</figcaption>
+  <img class="figure-img img-fluid z-depth-1" alt="..." src="../images/results.jpg">
+  <figcaption class="figure-caption">Results</figcaption>
 </figure>
 
