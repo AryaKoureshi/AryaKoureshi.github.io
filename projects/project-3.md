@@ -24,11 +24,11 @@ Abstract: Brain tumor detection from brain MRI images using CNN and image segmen
 
 Use the trained models to do detection and segmentation on brain MRI images. The result is satisfactory.
 
-[Github](https://github.com/AryaKoureshi/SolSudo)
-[Linkedin]()
 You can download my U-net trained model from: [Unet](https://drive.google.com/drive/folders/1qt7l3HOGIwOguWsMKc5fuwG2NGiGOucf?usp=sharing) and CNN trained model from: [CNN](https://drive.google.com/drive/folders/1fXFzMwNG6HrbNp6-GASAgeybeSB3JWCd?usp=sharing)
 
 [Github](https://github.com/AryaKoureshi/Brain-tumor-detection)
+
+[Linkedin]()
 
 <figure class="figure1">
   <img class="figure-img img-fluid z-depth-1" alt="..." src="../images/results.jpg">
