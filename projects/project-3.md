@@ -28,7 +28,7 @@ You can download my U-net trained model from: [Unet](https://drive.google.com/dr
 
 [Github](https://github.com/AryaKoureshi/Brain-tumor-detection)
 
-[Linkedin]()
+[Linkedin](https://www.linkedin.com/posts/arya-koureshi_brainabrtumor-mri-cnn-activity-6879823236830375936-0new)
 
 <figure class="figure1">
   <img class="figure-img img-fluid z-depth-1" alt="..." src="../images/results.jpg">
