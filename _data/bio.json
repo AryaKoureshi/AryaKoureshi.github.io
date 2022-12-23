@@ -103,8 +103,18 @@
     {
       "institution": "University of Tabriz",
       "area": "Faculty of Electrical and Computer Engineering",
-      "studyType": "B.S. Biomedical Engineering",
-      "startDate": "2018-09-23",
+      "studyType": "B.Sc. Biomedical Engineering (Bioelectric)",
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Sharif University of Technology",
+      "area": "Electrical Engineering Department, Sharif University of Technology",
+      "studyType": "M.Sc. Biomedical Engineering (Bioelectric)",
+      "startDate": "2022",
       "endDate": "Present",
       "gpa": "",
       "courses": [
