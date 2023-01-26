@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/test1.png
+image: images/SolSudo_sample.png
 title: Solsudo
 permalink: projects/Solsudo
 # All dates must be YYYY-MM-DD format!
