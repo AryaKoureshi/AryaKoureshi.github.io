@@ -49,6 +49,7 @@
       ]
     }
   ],
+  
   "skills": [
     {
       "name": "Programming Languages",
@@ -116,6 +117,7 @@
         ]
     }
   ],
+  
   "education": [
     {
       "institution": "Sharif University of Technology",
@@ -136,6 +138,14 @@
       "gpa": "",
       "courses": [
       ]
+    }
+  ],
+  
+  "experience": [
+    {
+      "name": "Member of Iranian Neuroscience Society (INSS)",
+      "startDate": "2023",
+      "endDate": "Present"
     }
   ]
 }
