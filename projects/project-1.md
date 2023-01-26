@@ -24,7 +24,6 @@ Abstract : The model is an autoencoder convolutional network created by Keras in
 [Linkedin](https://www.linkedin.com/posts/arya-koureshi_deeplearning-python-tensorflow-activity-6707914099294003201-5eM2)
 
 <div class="ui xlarge images">
-  <img class="ui image" src="../images/sample.jpg">
   <img class="ui image" src="../images/sample2.jpg">
   <img class="ui image" src="../images/sample3.jpg">
 </div>
