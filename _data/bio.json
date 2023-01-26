@@ -2,7 +2,7 @@
   "basics": {
     "name": "Arya Koureshi",
     "label": "Student",
-    "picture": "https://AryaKoureshi.github.io/images/AA.png",
+    "picture": "https://AryaKoureshi.github.io/images/Profile.jpg",
     "email": "Arya.Koureshi@gmail.com",
     "phone": "",
     "website": "https://AryaKoureshi.github.io",
@@ -10,21 +10,26 @@
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "",
+      "city": "Tehran Province",
       "countryCode": "",
       "region": "Iran"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "AryaKoureshi",
+        "username": "aryakoureshi",
         "url": "http://github.com/aryakoureshi"
       },
       {
         "network": "linkedin",
-        "username": "AryaKoureshi",
+        "username": "arya-koureshi",
         "url": "http://linkedin.com/in/arya-koureshi"
       },
+      {
+        "network": "Kaggle",
+        "username": "aryakoureshi",
+        "url": "https://www.kaggle.com/aryakoureshi"
+      }
     ]
   },
   "interests": [
@@ -65,6 +70,8 @@
         "Keras",
         "neupy",
         "SVM",
+        "k fold cross validation",
+        "k-NN"
         ]
     },
     {
@@ -73,6 +80,15 @@
       "keywords": [
         "OpenCV",
         "Tesseract",
+        ]
+    },
+    {
+      "name": "Feature Extraction and Selection",
+      "level":"",
+      "keywords": [
+        "PCA",
+        "CSP",
+        "FBCSP",
         ]
     },
     {
@@ -86,7 +102,7 @@
       "name": "Signal Processing",
       "level":"",
       "keywords": [
-        "Matlab",
+        "Matlab", "Python"
         ]
     },
     {
@@ -96,6 +112,7 @@
         "Chess",
         "Mathematica",
         "Rubiks cuber",
+        "Mathematics teacher"
         ]
     }
   ],
