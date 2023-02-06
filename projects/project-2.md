@@ -15,9 +15,10 @@ labels:
   - Algorithm
 summary: Sudoku is a fun puzzle that can keep you entertained for hours on end. but it's amazing that an AI model can solve sudokus by just looking at the picture of the sudoku within seconds.
 ---
-Topic: Sudoku solver (Solsudo)
+Topic: Sudoku solver (SolSudo)
 
-Abstract: SolSudo is a sudoku solver that works with deep learning. SolSudo can solves sudokus by using images and it has an intelligence method. According to this method, the model predicts the blank digits, and when each level is completed, blanks are filled one after another. Each time a blank is filled, new sudoku will be fed to the solver to detect the next digit. Again and again, until there isn't a blank left. One of the features of this project is detecting sudoku from an image and filling in the blanks that require tesseract-ocr, however, which may cause problems. Therefore, I devised a method as in sudoku numbers are entered one by one, and 0 is used for blanks.
+Abstract: SolSudo is a deep learning based sudoku solver. It solves sudokus using images with an intelligent method. The model predicts the missing digits and fills them in one by one as each level is completed. The process repeats until there are no more missing digits. SolSudo can detect sudoku from an image using tesseract-ocr, but this can cause problems. To avoid this, I created a method where the numbers are entered one by one, with 0 representing a blank.
+
 
 [Github](https://github.com/AryaKoureshi/SolSudo)
 [Linkedin](https://www.linkedin.com/posts/arya-koureshi_deeplearning-python-tensorflow-activity-6711641409658716160-kdSD)
