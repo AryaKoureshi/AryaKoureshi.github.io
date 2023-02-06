@@ -15,9 +15,9 @@ labels:
 summary: It's my first official project.
 ---
 
-Topic : Recognizing blurred documents (RBD)
+Topic: Recognizing Blurred Documents (RBD)
 
-Abstract : The model is an autoencoder convolutional network created by Keras in Python using the TensorFlow library. One of the advantages of this project is that it can recognize images of various sizes. It works by taking images of any size and converting them into 64x64 pieces, then recognizing these pieces, then connecting them together to display the final image.
+Abstract: The model is an autoencoder convolutional network created using Keras and the TensorFlow library in Python. One of its unique features is its ability to recognize images of varying sizes. It does this by first converting the images into 64x64 segments, then recognizing each segment, and finally connecting them to form the final image.
 
 [Github](https://github.com/AryaKoureshi/RBD)
 
