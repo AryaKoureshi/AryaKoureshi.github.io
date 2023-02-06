@@ -20,16 +20,17 @@ summary: Brain tumor detection and segmentation from MRI images using CNN and Un
 ---
 Topic: Brain tumor detection and segmentation
 
-Abstract: Brain tumor detection and segmentation from MRI images using CNN and Unet models. These deep neural networks are implemented with Keras functional API.
-The CNN model is used to detect whether a tumor is there or not. After 15 epochs of training, the calculated accuracy is about 99.6%.
-The U-net model is used to segment tumors in MRI images of the brain. After 10 epochs of training, the calculated accuracy is about 98%.
+Abstract: 
+"Brain Tumor Detection and Segmentation from MRI Images using CNN and U-Net Models"
+The CNN model is used to detect whether a tumor is present or not. After 15 epochs of training, the accuracy calculated was 99.6%.
+The U-Net model is used to segment tumors in MRI images of the brain. After 10 epochs of training, the accuracy calculated was 98%.
+These deep neural networks are implemented using the Keras functional API. The trained models can be used to detect and segment tumors on brain MRI images, resulting in a satisfactory outcome.
 
-Use the trained models to detect and segment tumors on brain MRI images. The result is satisfactory.
+You can download the U-net trained model from: [Unet](https://drive.google.com/drive/folders/1qt7l3HOGIwOguWsMKc5fuwG2NGiGOucf?usp=sharing) and CNN trained model from: [CNN](https://drive.google.com/drive/folders/1fXFzMwNG6HrbNp6-GASAgeybeSB3JWCd?usp=sharing)
 
-You can download my U-net trained model from: [Unet](https://drive.google.com/drive/folders/1qt7l3HOGIwOguWsMKc5fuwG2NGiGOucf?usp=sharing) and CNN trained model from: [CNN](https://drive.google.com/drive/folders/1fXFzMwNG6HrbNp6-GASAgeybeSB3JWCd?usp=sharing)
+Please feel free to contact me if you need help making it work.
 
-Contact me if you need any help in making it work.
-To access the codes, refer to my GitHub.
+For access to the code, please refer to my GitHub repository.
 
 [Github](https://github.com/AryaKoureshi/Brain-tumor-detection)
 
