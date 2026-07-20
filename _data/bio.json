@@ -1,151 +1,134 @@
 {
   "basics": {
     "name": "Arya Koureshi",
-    "label": "Master's in Biomedical Engineering (Bioelectric) | Sharif University of Technology",
-    "picture": "https://AryaKoureshi.github.io/images/Profile.jpg",
-    "email": "Arya.Koureshi@gmail.com",
-    "phone": "",
-    "website": "https://AryaKoureshi.github.io",
-    "summary": "",
+    "label": "Senior AI Engineer | Full-Stack Developer",
+    "picture": "https://aryakoureshi.github.io/images/Profile.jpg",
+    "email": "arya.koureshi@gmail.com",
+    "phone": "+98 918 505 7882",
+    "website": "https://aryakoureshi.github.io",
+    "summary": "Senior AI Engineer and Full-Stack Developer with approximately two years of product-development experience at Done Institute. I build applied AI, computer vision, biomedical signal-processing, and React/Node.js products from concept to production.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Tehran Province",
-      "countryCode": "",
+      "city": "Tehran",
+      "countryCode": "IR",
       "region": "Iran"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "aryakoureshi",
-        "url": "http://github.com/aryakoureshi"
+        "username": "AryaKoureshi",
+        "url": "https://github.com/AryaKoureshi"
       },
       {
         "network": "linkedin",
         "username": "arya-koureshi",
-        "url": "http://linkedin.com/in/arya-koureshi"
-      },
-      {
-        "network": "facebook",
-        "username": "apollarya",
-        "url": "https://www.facebook.com/apollarya/"
+        "url": "https://linkedin.com/in/arya-koureshi"
       }
     ]
   },
   "interests": [
-    {
-      "name": "Neuroscience",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Artificial Intelligence",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Pattern Recognition",
-      "keywords": [
-      ]
-    }
+    { "name": "Applied AI", "keywords": [] },
+    { "name": "Computer Vision", "keywords": [] },
+    { "name": "Biomedical AI", "keywords": [] },
+    { "name": "Full-Stack Product Engineering", "keywords": [] },
+    { "name": "EEG and BCI", "keywords": [] }
   ],
-  
   "skills": [
     {
-      "name": "Programming Languages",
+      "name": "AI and Deep Learning",
       "level": "",
-      "keywords": [
-        "Python",
-        "C++",
-        ]
+      "keywords": ["Python", "PyTorch", "TensorFlow/Keras", "scikit-learn", "CNN", "U-Net", "YOLO", "ViT", "EfficientNet", "transfer learning"]
     },
     {
-      "name": "AI",
+      "name": "Full-Stack Engineering",
       "level": "",
-      "keywords": [
-        "Machine-Learning",
-        "Artifical-Neural-Network",
-        "Deep-Learning",
-        "sklearn",
-        "Tensorflow",
-        "Keras",
-        "neupy",
-        "SVM",
-        "k fold cross validation",
-        "k-NN"
-        ]
+      "keywords": ["JavaScript", "React", "Node.js", "REST APIs", "responsive UI", "authentication flows", "dashboards", "HTML/CSS", "Git/GitHub"]
     },
     {
-      "name": "Image Processing",
-      "level":"",
-      "keywords": [
-        "OpenCV",
-        "Tesseract",
-        ]
-    },
-    {
-      "name": "Feature Extraction and Selection",
-      "level":"",
-      "keywords": [
-        "PCA",
-        "CSP",
-        "FBCSP",
-        ]
-    },
-    {
-      "name": "Image Segmentation",
-      "level":"",
-      "keywords": [
-        "Python",
-        ]
-    },
-    {
-      "name": "Signal Processing",
-      "level":"",
-      "keywords": [
-        "Matlab", "Python"
-        ]
-    },
-    {
-      "name": "Other Skills",
+      "name": "Computer Vision",
       "level": "",
-      "keywords": [
-        "Chess",
-        "Mathematica",
-        "Rubiks cuber",
-        "Mathematics teacher"
-        ]
+      "keywords": ["OpenCV", "object detection", "segmentation", "classification", "OCR/Tesseract", "real-time video", "augmentation", "denoising"]
+    },
+    {
+      "name": "Biomedical Signals",
+      "level": "",
+      "keywords": ["EEG/BCI", "CSP/FBCSP", "CCA", "P300/SSVEP", "PSD", "STFT", "source localization", "MATLAB", "MNE"]
     }
   ],
-  
   "education": [
     {
-      "institution": "Sharif University of Technology",
-      "area": "Electrical Engineering Department",
-      "studyType": "M.Sc. Biomedical Engineering (Bioelectric)",
-      "startDate": "2022",
+      "institution": "University of Tehran",
+      "area": "Artificial intelligence, machine learning, and biomedical signal/image analysis",
+      "studyType": "Ph.D. Student",
+      "startDate": "2024",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
+    },
+    {
+      "institution": "Sharif University of Technology",
+      "area": "EEG/BCI, motor imagery, computational neuroscience, and brain-machine interfaces",
+      "studyType": "M.Sc. Biomedical Engineering (Bioelectric)",
+      "startDate": "2022",
+      "endDate": "2024",
+      "gpa": "",
+      "courses": []
     },
     {
       "institution": "University of Tabriz",
-      "area": "Faculty of Electrical and Computer Engineering",
-      "studyType": "B.Sc. Biomedical Engineering (Bioelectric)",
+      "area": "FBCSP for EEG-based motor-imagery BCI",
+      "studyType": "B.Sc. Biomedical Engineering",
       "startDate": "2018",
       "endDate": "2022",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
-  
+  "work": [
+    {
+      "company": "Done Institute",
+      "position": "Senior AI Engineer and Full-Stack Developer",
+      "website": "https://doneproject.ir",
+      "startDate": "2024",
+      "endDate": "2026",
+      "summary": "Product engineering, applied AI, and end-to-end web delivery across DoneProject, DoneGram, and Daramhavato.",
+      "highlights": [
+        "Delivered React and Node.js platforms from product structure and reusable UI to APIs, deployment, and post-launch iteration.",
+        "Built request, account, file-submission, tracking, and operational workflows.",
+        "Bridged AI experimentation with production engineering and product constraints."
+      ]
+    },
+    {
+      "company": "Ghazizadeh Lab and Sharif Brain Center",
+      "position": "AI / BCI Researcher",
+      "website": "https://www.ghazizadehlab.org",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Developing real-time motor-imagery EEG pipelines for BCI and exoskeleton-oriented control.",
+      "highlights": [
+        "EEG preprocessing, feature extraction, classification, denoising, and visualization.",
+        "CSP/FBCSP, CCA, P300/SSVEP, GEVD/DSS, PSD, STFT, and source-localization workflows."
+      ]
+    },
+    {
+      "company": "Sharif University of Technology",
+      "position": "Teaching Assistant — Learning in Brain and Machine",
+      "website": "https://www.sharif.edu",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Supporting instruction in neural computation, brain-inspired learning, artificial neural networks, and machine learning.",
+      "highlights": []
+    }
+  ],
   "experience": [
     {
       "position": "Member of Iranian Neuroscience Society (INSS)",
+      "studyType": "Professional membership",
+      "area": "Neuroscience",
       "startDate": "2023",
-      "endDate": "Present"
+      "endDate": "Present",
+      "courses": []
     }
   ]
 }

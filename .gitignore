@@ -5,3 +5,5 @@
 _site/
 .sass-cache/
 .jekyll-cache/
+.edge-preview/
+*-preview.png
